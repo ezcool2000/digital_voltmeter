@@ -22,7 +22,7 @@ Simulation/Schematics: Proteus (Used for initial circuit design and voltage divi
 
 How to Run the Project
 Clone this repository to your local machine:
-git clone https://github.com/your-username/Digital-Voltmeter-STM32.git
+git clone https://github.com/ezcool2000/Digital-Voltmeter-STM32.git
 
 Open STM32CubeIDE.
 
